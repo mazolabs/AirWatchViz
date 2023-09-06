@@ -4,6 +4,8 @@
 
 This repository contains an HTML file designed for uploading flight data to generate KML files. The user interface is created with HTML and CSS and adheres to W3C standards and WCAG guidelines. It allows for selection of data sources such as FlightRadar24, FlightAware, or a custom source. Users can also specify visual attributes for the KML output, like line color, width, opacity, and other advanced settings.
 
+![UI Screenshot](https://uploads-ssl.webflow.com/64a0b5a003c2c188baad841a/64f7d9e123b93377630bf01b_Screenshot%202023-09-05%20at%2018.45.39.png)
+
 ## Table of Contents
 
 1. [Features](#features)
